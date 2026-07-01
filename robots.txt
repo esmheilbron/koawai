@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://serene-nasturtium-c74d84.netlify.app/sitemap.xml
